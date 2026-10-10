@@ -1,0 +1,12 @@
+{
+  "appId": "com.darkgpt.app",
+  "appName": "DARKGPT",
+  "webDir": "www",
+  "backgroundColor": "#0a0a0f",
+  "android": {
+    "allowMixedContent": false
+  },
+  "plugins": {
+    "CapacitorHttp": { "enabled": true }
+  }
+}
