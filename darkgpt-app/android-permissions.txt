@@ -1,6 +1,0 @@
-Yeh lines android/app/src/main/AndroidManifest.xml mei <application> tag se PEHLE paste karein
-(yeh voice call aur mic k lye zaroori hein):
-
-    <uses-permission android:name="android.permission.INTERNET" />
-    <uses-permission android:name="android.permission.RECORD_AUDIO" />
-    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
